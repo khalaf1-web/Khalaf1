@@ -13,3 +13,4 @@
 # Risk register: https://docs.google.com/document/d/1QV9aGLw6WsGCsK38PKR6MKqaz3vnkyxZFz3MhPt7Xa0/edit?usp=sharing
 # Access controls worksheet: https://docs.google.com/document/d/1CbXdpj2OYky9aRODSEEjivuw-5i8izYBt-tWpWwfrL4/edit?usp=sharing
 # Algorithm for file updates in Python: https://docs.google.com/document/d/1uHb_7CgifXECfqBYjfbpc8nWbmRmSMhSsqr95IpHi2M/edit?usp=sharing
+# Python Automation: https://docs.google.com/document/d/1Z090v7UH5DMKERgkZloXphcSc0f-7Fp7ZEWIMg7vncQ/edit?usp=sharing
