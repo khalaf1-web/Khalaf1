@@ -17,7 +17,7 @@ Here are some examples of my work, demonstrating practical application of cybers
 
 # Cybersecurity Incident Report
 Description: Authored a comprehensive report detailing a simulated cybersecurity incident, including timeline, analysis, impact assessment, containment, eradication, and recovery steps. This project showcases an understanding of incident response procedures and technical writing.
-#  View Incident Report:View Incident Report
+#  View Incident Report: View Incident Report
 Incident Report Analysis
 Description: Conducted an in-depth analysis of an existing incident report, identifying strengths, weaknesses, and areas for improvement in the response process. This demonstrates critical thinking and analytical skills in evaluating security events.
 # Link: View Incident Analysis
