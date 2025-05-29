@@ -59,5 +59,3 @@ Tailoring the Summary: Adjust the summary slightly for different job application
 Hosting: Eventually, you might want to put this on a simple personal website or a platform like GitHub Pages (where you could even host some of the Python scripts if appropriate).
 Link Previews: If you share this digitally, ensure the share settings on your Google Docs are set to "Anyone with the link can view" so recruiters can easily access them.
 This revised structure should provide a much more professional and compelling overview of your skills and experiences!
-
-
