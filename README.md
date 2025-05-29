@@ -22,7 +22,7 @@ Here are some examples of my work, demonstrating practical application of cybers
 # 1. Security Analysis & Reporting
 # Cybersecurity Incident Report
  Description: Authored a comprehensive report detailing a simulated cybersecurity incident, including timeline, analysis, impact assessment, containment, eradication, and recovery steps. This project showcases an understanding of incident response procedures and technical writing.
-* [Cybersecurity Incident Report](https://docs.google.com/document/d/1PRdhiIsIMzPmUZfZQVqxLrF-hlqdCJevli42M4qfCgU/edit?usp=sharing
+* [Cybersecurity Incident Report](https://docs.google.com/document/d/1PRdhiIsIMzPmUZfZQVqxLrF-hlqdCJevli42M4qfCgU/edit?usp=sharing)
 
 # Incident Report Analysis
 Description: Conducted an in-depth analysis of an existing incident report, identifying strengths, weaknesses, and areas for improvement in the response process. This demonstrates critical thinking and analytical skills in evaluating security events.
@@ -49,4 +49,4 @@ Description: Designed and documented a Python algorithm for securely and efficie
 * [Algorithm for file updates in Python](https://docs.google.com/document/d/1uHb_7CgifXECfqBYjfbpc8nWbmRmSMhSsqr95IpHi2M/edit?usp=sharing)
 # Python Automation for Cybersecurity 
 Description: Illustrated the use of Python scripting to automate repetitive cybersecurity tasks, enhancing efficiency and response capabilities. This project highlights practical application of Python in a security context.
-* [Python Automation](https://docs.google.com/document/d/1Z090v7UH5DMKERgkZloXphcSc0f-7Fp7ZEWIMg7vncQ/edit?us
+* [Python Automation](https://docs.google.com/document/d/1Z090v7UH5DMKERgkZloXphcSc0f-7Fp7ZEWIMg7vncQ/edit?us)
