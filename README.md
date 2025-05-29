@@ -1,3 +1,11 @@
+# Khalaf Ali
+# Cybersecurity specialist
+# Google Cybersecurity Professional Course
+•	Cybersecurity & Threat Analysis
+•	Security & Risk Management
+•	Python | SQL | Linux | SIEM Tools
+•	NIST Cybersecurity Framework
+
 * [Applying filters to SQL queries](https://docs.google.com/document/d/1CC44KIoWryQBjSHJL2sqRzBeT8n8mtsGKYUt7EyPgtg/edit?usp=sharing)
 * [Cybersecurity Incident Report](https://docs.google.com/document/d/1PRdhiIsIMzPmUZfZQVqxLrF-hlqdCJevli42M4qfCgU/edit?usp=sharing)
 * [File permissions in Linux](https://docs.google.com/document/d/1f1qa8rBRLspN4XBcw0IFL4ZEeD6gRHqgZda1_MhPG_o/edit?usp=sharing)
